@@ -1,4 +1,4 @@
-## Chrome开发者工具-捡起装备库的钥匙
+## Chrome开发者工具-历史正文
 网络爬虫爬取不同的网站时，因为网站的实现方式各不相同，就需要着手分析网页，进而抓取数据。Chrome开发者工具就是一个很好用的分析网页和抓取数据的工具。
 
 Chrome开发者工具官方文档： https://developers.google.cn/web/tools/chrome-devtools/ 
