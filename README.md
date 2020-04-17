@@ -9,5 +9,5 @@ Go!Go!Go! Spider.
 ## 那就开始吧。  
 1.[在开始学习之前-黎明之前](https://github.com/aBin0214/Spider-Learning./blob/master/docs/%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%89%8D-%E9%BB%8E%E6%98%8E%E4%B9%8B%E5%89%8D.md)  
 2.[爬虫是什么-大Boss概览](https://github.com/aBin0214/Spider-Learning./blob/master/docs/%E7%88%AC%E8%99%AB%E6%98%AF%E4%BB%80%E4%B9%88-%E5%A4%A7Boss%E6%A6%82%E8%A7%88.md)  
-3.[Chrome开发者工具-捡起装备库的钥匙](https://github.com/aBin0214/Spider-Learning./blob/master/docs/Chrome%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7-%E6%8D%A1%E8%B5%B7%E8%A3%85%E5%A4%87%E5%BA%93%E7%9A%84%E9%92%A5%E5%8C%99.md)  
-4.[抓包工具-80斤的锤子](https://github.com/aBin0214/Spider-Learning./blob/master/docs/%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7-80%E6%96%A4%E7%9A%84%E9%94%A4%E5%AD%90.md)
+3.[Chrome开发者工具-历史正文](https://github.com/aBin0214/Spider-Learning./blob/master/docs/Chrome%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7-%E5%8E%86%E5%8F%B2%E6%AD%A3%E6%96%87.md)  
+4.[抓包工具-雷神之锤](https://github.com/aBin0214/Spider-Learning./blob/master/docs/%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7-%E9%9B%B7%E7%A5%9E%E4%B9%8B%E9%94%A4.md)
